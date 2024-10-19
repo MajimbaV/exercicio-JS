@@ -1,4 +1,4 @@
-#Exercício de Fixação sobre conteúdo de JavaScript
+# Exercício de Fixação sobre conteúdo de JavaScript
 
 Este repositório foi criado com o intuito de envolver o exercício de fixação proposto pela orientação da disciplina de Informática Aplicada à Web, especificamente sobre o conteúdo ministrado
 de JavaScript.
